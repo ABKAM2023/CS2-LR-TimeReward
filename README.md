@@ -34,7 +34,7 @@ Plugin translation configuration file (ru.json)
 4. Настройте settings_timereward.json
 5. Перезапустите сервер
 
-# Конфигурационный файл (settings_namereward.json)
+# Конфигурационный файл (settings_timereward.json)
 ```json
 {
   "ExperiencePerInterval": 50,
