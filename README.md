@@ -16,7 +16,7 @@
 }
 ```
 
-Plugin translation configuration file (ru.json)
+# Plugin translation configuration file (en.json)
 ```json
 {
     "timereward.message": "for playing on the server",
